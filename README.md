@@ -83,5 +83,9 @@ This portfolio artifact is strongest for roles involving software engineering, b
 
 - Add screenshots or diagrams from the system design document if available
 - Add a short summary of the main use cases
-- Add a role-based access table for students, instructors, admins, and IT staff
+- Add a role-based access table for students, instructors, administrators, and IT staff
 - Organize documents into a `docs/` folder if more files are added
+
+## Academic Portfolio Notice
+
+This repository is shared as an academic portfolio artifact. It may include coursework documentation and assignment-specific material created for an educational setting. Please do not reuse, submit, or redistribute this work as your own.
